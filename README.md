@@ -5,10 +5,10 @@
 # Bienvenidos a la Tarea de HTML y CSS
 
 # Juego de la Rana
-![Texto alternativo](Juego del Jardin.jpg)
+![Texto alternativo](Juego%20de%20la%20Rana.jpg)
 
 # Juego del Jardin 
-![Texto alternativo](Juego de la Rana.jpg)
+![Texto alternativo](Juego%20del%20Jardin.jpg)
 
 ¡Hola a todos!
 
