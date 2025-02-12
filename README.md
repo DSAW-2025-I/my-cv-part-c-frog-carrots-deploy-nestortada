@@ -3,7 +3,7 @@
 # Nombre: Nestor Andres Tabares David
 
 # Link de la pagina
-[text](https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-nestortada/)
+[https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-nestortada/](https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-nestortada/)
 
 # Juego de la Rana
 ![Texto alternativo](Juego%20de%20la%20Rana.jpg)
