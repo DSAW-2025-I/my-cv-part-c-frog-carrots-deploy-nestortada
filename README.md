@@ -1,3 +1,16 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Pu-tfUhR)
+
+# Nombre: Nestor Andres Tabares David
+
+# Link de la pagina
+[https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-nestortada/](https://dsaw-2025-i.github.io/my-cv-part-c-frog-carrots-deploy-nestortada/)
+
+# Juego de la Rana
+![Texto alternativo](Juego%20de%20la%20Rana.jpg)
+
+# Juego del Jardin 
+![Texto alternativo](Juego%20del%20Jardin.jpg)
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -19,6 +32,7 @@ Crear la estructura de tu CV utilizando solo HTML.
     - Una sección de experiencia laboral (lista de trabajos anteriores, cargos y fechas).
     - Una sección de habilidades (lista de tus habilidades).
     - Una sección de intereses o hobbies.
+
 
 ### Comentarios
 ```html
